@@ -1,5 +1,7 @@
 # Machine_learning_CW
 
+OneDrive link for dataset: https://elsewedyedu1-my.sharepoint.com/:x:/g/personal/sm2100383_tkh_edu_eg/ET8Quoon0AtNpjLxRwkgxrsB2fKF6N8_L6MTUiuuutQmUA?e=5Ab0jD 
+
 Cap Diameter: The measurement of the cap across its widest point. It helps in identifying the mushroom’s size and can range from a few millimeters to several centimeters.
 
 Cap Shape: The overall shape of the cap, such as conical, bell-shaped, flat, or wavy. This characteristic helps in distinguishing different species.
